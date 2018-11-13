@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCRouter", "IOCRouter\IOCRouter.csproj", "{BCAEE5D8-947A-4035-9AA0-C6BF193611BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User", "Users\User.csproj", "{0F6CDC41-92F2-49A7-B120-495505743ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCAEE5D8-947A-4035-9AA0-C6BF193611BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAEE5D8-947A-4035-9AA0-C6BF193611BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAEE5D8-947A-4035-9AA0-C6BF193611BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAEE5D8-947A-4035-9AA0-C6BF193611BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6CDC41-92F2-49A7-B120-495505743ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6CDC41-92F2-49A7-B120-495505743ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6CDC41-92F2-49A7-B120-495505743ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6CDC41-92F2-49A7-B120-495505743ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D5281F1-0AB3-42FB-AB54-B9B67D359790}
+	EndGlobalSection
+EndGlobal
